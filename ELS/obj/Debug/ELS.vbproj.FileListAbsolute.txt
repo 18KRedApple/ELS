@@ -1,0 +1,16 @@
+D:\work\VB\addin\ELS\ELS\bin\Debug\ELS.dll
+D:\work\VB\addin\ELS\ELS\bin\Debug\ELS.pdb
+D:\work\VB\addin\ELS\ELS\bin\Debug\ELS.xml
+D:\work\VB\addin\ELS\ELS\bin\Debug\ELS.dll.manifest
+D:\work\VB\addin\ELS\ELS\bin\Debug\ELS.vsto
+D:\work\VB\addin\ELS\ELS\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\work\VB\addin\ELS\ELS\obj\Debug\ELS.vbproj.AssemblyReference.cache
+D:\work\VB\addin\ELS\ELS\obj\Debug\ELS.Form1.resources
+D:\work\VB\addin\ELS\ELS\obj\Debug\ELS.Ribbon1.resources
+D:\work\VB\addin\ELS\ELS\obj\Debug\ELS.Resources.resources
+D:\work\VB\addin\ELS\ELS\obj\Debug\ELS.vbproj.GenerateResource.cache
+D:\work\VB\addin\ELS\ELS\obj\Debug\ELS.vbproj.CoreCompileInputs.cache
+D:\work\VB\addin\ELS\ELS\obj\Debug\ELS.vbproj.CopyComplete
+D:\work\VB\addin\ELS\ELS\obj\Debug\ELS.dll
+D:\work\VB\addin\ELS\ELS\obj\Debug\ELS.xml
+D:\work\VB\addin\ELS\ELS\obj\Debug\ELS.pdb
