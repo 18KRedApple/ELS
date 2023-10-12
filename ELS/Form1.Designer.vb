@@ -117,7 +117,7 @@ Partial Class Form1
         Me.MinimumSize = New System.Drawing.Size(624, 85)
         Me.Name = "Form1"
         Me.ShowIcon = False
-        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "ELS"
         Me.TopMost = True
         Me.ResumeLayout(False)

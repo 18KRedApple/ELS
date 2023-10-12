@@ -1,0 +1,16 @@
+D:\work\VB\addin\ELS\ELS\bin\Release\ELS.dll
+D:\work\VB\addin\ELS\ELS\bin\Release\ELS.pdb
+D:\work\VB\addin\ELS\ELS\bin\Release\ELS.xml
+D:\work\VB\addin\ELS\ELS\bin\Release\ELS.dll.manifest
+D:\work\VB\addin\ELS\ELS\bin\Release\ELS.vsto
+D:\work\VB\addin\ELS\ELS\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\work\VB\addin\ELS\ELS\obj\Release\ELS.vbproj.AssemblyReference.cache
+D:\work\VB\addin\ELS\ELS\obj\Release\ELS.Form1.resources
+D:\work\VB\addin\ELS\ELS\obj\Release\ELS.Ribbon1.resources
+D:\work\VB\addin\ELS\ELS\obj\Release\ELS.Resources.resources
+D:\work\VB\addin\ELS\ELS\obj\Release\ELS.vbproj.GenerateResource.cache
+D:\work\VB\addin\ELS\ELS\obj\Release\ELS.vbproj.CoreCompileInputs.cache
+D:\work\VB\addin\ELS\ELS\obj\Release\ELS.vbproj.CopyComplete
+D:\work\VB\addin\ELS\ELS\obj\Release\ELS.dll
+D:\work\VB\addin\ELS\ELS\obj\Release\ELS.xml
+D:\work\VB\addin\ELS\ELS\obj\Release\ELS.pdb
