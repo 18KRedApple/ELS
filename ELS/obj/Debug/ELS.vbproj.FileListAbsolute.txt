@@ -14,3 +14,5 @@ D:\work\VB\addin\ELS\ELS\obj\Debug\ELS.vbproj.CopyComplete
 D:\work\VB\addin\ELS\ELS\obj\Debug\ELS.dll
 D:\work\VB\addin\ELS\ELS\obj\Debug\ELS.xml
 D:\work\VB\addin\ELS\ELS\obj\Debug\ELS.pdb
+D:\work\VB\addin\ELS\ELS\obj\Debug\ELS.Form2.resources
+D:\work\VB\addin\ELS\ELS\obj\Debug\ELS.MyUserControl.resources
